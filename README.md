@@ -1,4 +1,3 @@
 # hello-world
 Mi segundo repositorio
-Estoy viva 
-Estoy lista para el 18
+Estoy muy feliz de haber creado mi segundo repositorio y de ver como sigo avanzando en el aprendizaje
